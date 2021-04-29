@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA31F106-C426-4342-B650-1736A2B138E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PremonexBloodCenter</RootNamespace>
+    <AssemblyName>PremonexBloodCenter</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>F:\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>F:\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminEvent.Designer.cs">
+      <DependentUpon>adminEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminLogin.Designer.cs">
+      <DependentUpon>adminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afterAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="afterAdmin.Designer.cs">
+      <DependentUpon>afterAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afterAdminDonor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="afterAdminDonor.Designer.cs">
+      <DependentUpon>afterAdminDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afterDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="afterDonor.Designer.cs">
+      <DependentUpon>afterDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afterDonorCheckOther.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="afterDonorCheckOther.Designer.cs">
+      <DependentUpon>afterDonorCheckOther.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bloodStored.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bloodStored.Designer.cs">
+      <DependentUpon>bloodStored.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonorAndPatient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DonorAndPatient.Designer.cs">
+      <DependentUpon>DonorAndPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="donorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="donorLogin.Designer.cs">
+      <DependentUpon>donorLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DVGPrinter.cs" />
+    <Compile Include="Event.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Event.Designer.cs">
+      <DependentUpon>Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pass_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pass_user.Designer.cs">
+      <DependentUpon>pass_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Patient.Designer.cs">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signup.Designer.cs">
+      <DependentUpon>signup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminEvent.resx">
+      <DependentUpon>adminEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminLogin.resx">
+      <DependentUpon>adminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afterAdmin.resx">
+      <DependentUpon>afterAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afterAdminDonor.resx">
+      <DependentUpon>afterAdminDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afterDonor.resx">
+      <DependentUpon>afterDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afterDonorCheckOther.resx">
+      <DependentUpon>afterDonorCheckOther.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bloodStored.resx">
+      <DependentUpon>bloodStored.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonorAndPatient.resx">
+      <DependentUpon>DonorAndPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="donorLogin.resx">
+      <DependentUpon>donorLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event.resx">
+      <DependentUpon>Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pass_user.resx">
+      <DependentUpon>pass_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient.resx">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="signup.resx">
+      <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\35824a37-ed7b-4dc6-91a0-14d4b9b32fd6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1621 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

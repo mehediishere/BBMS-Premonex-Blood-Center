@@ -1,0 +1,105 @@
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe.config
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.pdb
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csprojAssemblyReference.cache
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Form1.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Properties.Resources.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.GenerateResource.cache
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.CoreCompileInputs.cache
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.exe
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pdb
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.signup.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.CopyComplete
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MetroFramework.dll
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.dll
+G:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.xml
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminLogin.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.donorLogin.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdmin.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdminDonor.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.bloodStored.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Patient.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.DonorAndPatient.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonor.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonorCheckOther.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminEvent.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Event.resources
+G:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pass_user.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe.config
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.pdb
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MetroFramework.dll
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.dll
+F:\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.xml
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csprojAssemblyReference.cache
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminEvent.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminLogin.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdmin.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdminDonor.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonor.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonorCheckOther.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.bloodStored.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.DonorAndPatient.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.donorLogin.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Event.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Form1.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pass_user.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Patient.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Properties.Resources.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.signup.resources
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.GenerateResource.cache
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.CoreCompileInputs.cache
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.CopyComplete
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.exe
+F:\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pdb
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe.config
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.exe
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pdb
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.pdb
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.dll
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.xml
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csprojResolveAssemblyReference.cache
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminEvent.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminLogin.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdmin.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdminDonor.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonor.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonorCheckOther.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.bloodStored.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.DonorAndPatient.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.donorLogin.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Event.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Form1.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pass_user.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Patient.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Properties.Resources.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.signup.resources
+D:\SDP2\Mehedi\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.GenerateResource.Cache
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe.config
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.exe
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\PremonexBloodCenter.pdb
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\bin\Debug\MySql.Data.xml
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csprojAssemblyReference.cache
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminEvent.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.adminLogin.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdmin.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterAdminDonor.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonor.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.afterDonorCheckOther.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.bloodStored.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.DonorAndPatient.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.donorLogin.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Event.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Form1.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pass_user.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Patient.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.Properties.Resources.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.signup.resources
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.GenerateResource.cache
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.CoreCompileInputs.cache
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.csproj.CopyComplete
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.exe
+H:\Blood Bank Management\Mehedi\PremonexBloodCenter\PremonexBloodCenter\obj\Debug\PremonexBloodCenter.pdb
